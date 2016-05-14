@@ -1,0 +1,22 @@
+{
+  "name": "shout",
+  "version": "0.0.0",
+  "description": "Handles realtime websocket notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dadibom/shout.git"
+  },
+  "keywords": [
+    "notification"
+  ],
+  "author": "David Storm Lehrberg <dadibom@hotmail.com> (http://bitwise.pro/)",
+  "license": "gpl",
+  "bugs": {
+    "url": "https://github.com/Dadibom/shout/issues"
+  },
+  "dependencies": {}
+}
